@@ -16,7 +16,7 @@
   width: 500px;
   height: 300px;
 }
-
+span,
 .text2,
 .text3,
 .text4,
@@ -24,7 +24,7 @@
 .text6,
 .text7,
 .text8 {
-  font-size: 10px;
+  font-size: 11px;
 }
 
 .text1 {
